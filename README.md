@@ -1,16 +1,19 @@
-## Hi there 👋
+# Philip Rogers
 
-<!--
-**PRogers401/PRogers401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology leader in regulated environments: financial services, telecom, digital asset custody.
 
-Here are some ideas to get you started:
+I work on the layer between *"it works"* and *"we can prove it works"*: change and release governance, evidence that holds up under examination, and the colleague-facing technology an organization runs on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current focus**
+- Control gates and evidence layers for regulated technology delivery
+- AI assurance: evaluation, guardrails and auditability before capability
+- Organizational continuity: what an organization knows, who holds it, and what breaks when they leave
+
+**How I work**
+- Durable judgment over any specific tool or stack
+- Informed speed: act, measure, correct
+- Long-term trust over hype
+
+**Building** in continuity intelligence.
+
+**Elsewhere:** [LinkedIn](https://www.linkedin.com/in/philipwrogers)
